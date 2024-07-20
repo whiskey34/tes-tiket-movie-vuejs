@@ -20,7 +20,7 @@ import { RouterLink, RouterView } from 'vue-router'
             <RouterLink to="/about">About</RouterLink>
           </div>
           <div>
-            <button class='py-2 px-6 bg-black text-white rounded-3xl font-semibold'>Login</button>
+            <!-- <button class='py-2 px-6 bg-black text-white rounded-3xl font-semibold'>Subscribes</button> -->
           </div>
         </div>
         
